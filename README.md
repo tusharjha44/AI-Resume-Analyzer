@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Resumind Logo](public/images/resumind.png)
-
 **Intelligent resume analysis powered by AI to help job seekers optimize their resumes for ATS systems and improve their chances of landing their dream job.**
 
 [![React](https://img.shields.io/badge/React-19.2.3-61DAFB?logo=react)](https://react.dev/)
