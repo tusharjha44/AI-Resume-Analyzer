@@ -111,10 +111,11 @@ _Detailed feedback view with scores and improvement suggestions_
 ![Resume Detail](docs/screenshots/resume-detail.png)
 _Side-by-side view of resume preview and detailed feedback_
 
-### Wipe Data View
+### Data Management View
 
-![Resume Detail](docs/screenshots/wipe.png)
-_Wipe Data to clear Resumes_
+![Data Management](docs/screenshots/wipe.png)
+
+_Data management interface for viewing stored files and clearing all resume data_
 
 ---
 
@@ -146,7 +147,6 @@ _Wipe Data to clear Resumes_
 - **Vite 7.1.7** - Fast build tool and dev server
 - **React Router Dev Tools** - Development utilities
 - **TypeScript** - Static type checking
-
 
 ### Key Directories
 
