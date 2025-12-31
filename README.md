@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Resumind Logo](public/images/pdf.png)
+![Resumind Logo](public/images/resumind.png)
 
 **Intelligent resume analysis powered by AI to help job seekers optimize their resumes for ATS systems and improve their chances of landing their dream job.**
 
